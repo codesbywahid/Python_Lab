@@ -23,4 +23,4 @@ while guess != secret_number:
 
     except ValueError:
         print("Invalid input! Please enter a whole number.")
-        print(f"You guessed the number in {attempts} attempts.")
+        print("You guessed the number in {attempts} attempts.")
