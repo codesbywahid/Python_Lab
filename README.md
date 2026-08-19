@@ -1,2 +1,2 @@
 # Python Projects
-This Repo contains Projects made by using Python  
+A collection of Python projects built while learning core concepts.
