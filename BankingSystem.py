@@ -25,3 +25,8 @@ class Account:
 
     def get_balance(self):
         return self.__balance
+
+class SavingsAccount(Account):
+    def __init__(self, account_holder, initial_balance=0):
+        super().__init__(account_holder, initial_balance)
+        self.interest_rate=self.interest_rate
