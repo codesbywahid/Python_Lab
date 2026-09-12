@@ -14,3 +14,6 @@ yd = yt.streams.get_highest_resolution()
 # Example (Mac/Linux): '/Users/YourName/Downloads'
 # Or use '.' to save in the same folder as this script
 yd.download('.')
+
+# To download a video, run this in your terminal:
+# python ytdownloader.py "videolink"
